@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_f98ea07d156dce6647f48f24a291d1b175a42fd9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dshrout\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_4a7509b06bcea89b69f10fd1b03bb2aae952ce2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_535622f3b62ce6969da606d263b4ab7eb40d8924\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_9f7fa1ea5cc35f3a74ce15305d85dc2a348da527\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dshrout\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_2eb2f50327fe4fb9cdff5d5cebb93bb941ea84de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.1.1_6b1e06a24295b88339bc9dcc143b7f30af0ab109\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_0d98dd74d904156c5b722d79dd534cb087e31bed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_5e54d2babc263ce1766fa3a36a0126d92d1025b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="15cd45f43c6aa6433c95cf581e2a24d149728ef1">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fdae274ad8d628b0a54ee8434f05a68a6ae51a16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_8ee30541c50782569f72fc884667045539dcbc8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="00493121f1bf4619f6de9c980b572945d467addc">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82523a23788e980a3076a41ce1ac7dce713abf9c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_d24b3cc883d9f765d6d4742c8a505fb8ea094495\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_4baa33053bcb8dff68d73f12a524ffee2248c222\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_f818865704ae36d3c2329bd3f43399cf84abe475\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_7f7bea1afac7a4ad2863db34ab447ac19b7814c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_30cfa5c91c08674eba61cc28dbcba84e6abe93b9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dshrout\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_964185321acda81d5e35fe87687c2e069844249d\classes.dex" />
+    </item>
+
+</items>
