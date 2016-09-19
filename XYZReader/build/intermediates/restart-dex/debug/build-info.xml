@@ -4,48 +4,30 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="691827031198088"
+    timestamp="716610626272811"
     token="-912859678862254104" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1715" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="2510" />
     <task
         name="verifier"
-        duration="0" />
+        duration="542" />
 
     <artifact
-        location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="689032629504965" >
+    <build timestamp="716610626272811" >
         <artifact
             location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="691414107484682"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="691827031198088" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
