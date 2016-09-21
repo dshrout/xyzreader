@@ -18,6 +18,8 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowContentTransitions">true</item>
+
         <item name="colorPrimary">@color/orange_500</item>
         <item name="colorPrimaryDark">@color/grey_800</item>
         <item name="colorAccent">@color/lightblue_a200</item>
