@@ -4,48 +4,30 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="1297787756227155"
-    token="-912859678862254104" >
+    timestamp="168786800543565"
+    token="-6270902887867776774" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1226" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="415" />
     <task
         name="verifier"
-        duration="0" />
+        duration="228" />
 
-    <build timestamp="1297530626703130" >
+    <artifact
+        location="D:\Projects\Android\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="168786800543565" >
         <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            location="D:\Projects\Android\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="1297641518195067"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="1297750207941684" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="1297787756227155" />
 
 </instant-run>
