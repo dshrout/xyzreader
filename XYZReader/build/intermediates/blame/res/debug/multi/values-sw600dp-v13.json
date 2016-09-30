@@ -317,11 +317,11 @@
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 332,
+                        "startOffset": 343,
                         "endColumn": 56,
-                        "endOffset": 384
+                        "endOffset": 395
                     }
                 }
             },
@@ -349,17 +349,17 @@
                     "startLine": 20,
                     "startColumn": 4,
                     "startOffset": 1280,
-                    "endColumn": 54,
-                    "endOffset": 1330
+                    "endColumn": 56,
+                    "endOffset": 1332
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 91,
-                        "endColumn": 54,
-                        "endOffset": 141
+                        "startOffset": 158,
+                        "endColumn": 56,
+                        "endOffset": 210
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1335,
-                    "endColumn": 56,
-                    "endOffset": 1387
+                    "startOffset": 1337,
+                    "endColumn": 65,
+                    "endOffset": 1398
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 147,
-                        "endColumn": 56,
-                        "endOffset": 199
+                        "startOffset": 276,
+                        "endColumn": 65,
+                        "endOffset": 337
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1392,
-                    "endColumn": 65,
-                    "endOffset": 1453
+                    "startOffset": 1403,
+                    "endColumn": 58,
+                    "endOffset": 1457
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 265,
-                        "endColumn": 65,
-                        "endOffset": 326
+                        "startOffset": 216,
+                        "endColumn": 58,
+                        "endOffset": 270
                     }
                 }
             },
@@ -405,47 +405,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1458,
-                    "endColumn": 58,
-                    "endOffset": 1512
-                },
-                "from": {
-                    "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 205,
-                        "endColumn": 58,
-                        "endOffset": 259
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1517,
-                    "endColumn": 51,
-                    "endOffset": 1564
-                },
-                "from": {
-                    "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 38,
-                        "endColumn": 51,
-                        "endOffset": 85
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1569,
+                    "startOffset": 1462,
                     "endColumn": 53,
-                    "endOffset": 1618
+                    "endOffset": 1511
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -460,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1623,
+                    "startOffset": 1516,
                     "endColumn": 41,
-                    "endOffset": 1660
+                    "endOffset": 1553
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -479,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1665,
+                    "startOffset": 1558,
                     "endColumn": 94,
-                    "endOffset": 1755
+                    "endOffset": 1648
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -498,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1760,
+                    "startOffset": 1653,
                     "endColumn": 62,
-                    "endOffset": 1818
+                    "endOffset": 1711
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -517,12 +479,12 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1823,
-                    "endLine": 32,
+                    "startOffset": 1716,
+                    "endLine": 30,
                     "endColumn": 12,
-                    "endOffset": 2000
+                    "endOffset": 1893
                 },
                 "from": {
                     "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

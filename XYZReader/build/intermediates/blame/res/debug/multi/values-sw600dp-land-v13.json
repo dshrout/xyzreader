@@ -20,44 +20,6 @@
                         "endOffset": 77
                     }
                 }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 99,
-                    "endColumn": 54,
-                    "endOffset": 149
-                },
-                "from": {
-                    "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\macro_layout.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 138,
-                        "endColumn": 54,
-                        "endOffset": 188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 154,
-                    "endColumn": 51,
-                    "endOffset": 201
-                },
-                "from": {
-                    "file": "D:\\Projects\\Android\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\macro_layout.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 85,
-                        "endColumn": 51,
-                        "endOffset": 132
-                    }
-                }
             }
         ]
     }
