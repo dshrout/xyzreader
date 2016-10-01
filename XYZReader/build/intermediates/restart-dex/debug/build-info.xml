@@ -4,7 +4,7 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="405850205156306"
+    timestamp="410526537234719"
     token="-912859678862254104" >
 
     <task
@@ -20,42 +20,11 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-
-    <build timestamp="403942956928633" >
+    <build timestamp="409963269279702" >
         <artifact
             location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="404335755500802"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="405597288400783"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="405850205156306" >
-        <artifact
-            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
+    <build timestamp="410526537234719" />
 
 </instant-run>

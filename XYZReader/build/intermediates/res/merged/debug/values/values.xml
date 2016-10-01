@@ -1375,6 +1375,10 @@
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
+    <style name="CollapsingToolbarLayoutExpandedTextStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@android:color/transparent</item>
+        <item name="android:textSize">0.1sp</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -1643,17 +1647,12 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:windowContentTransitions">true</item>
-
         <item name="colorPrimary">@color/orange_500</item>
         <item name="colorPrimaryDark">@color/grey_800</item>
         <item name="colorAccent">@color/lightblue_a200</item>
 
         <item name="android:textColorPrimary">@color/grey_800</item>
         <item name="android:textColorSecondary">@color/grey_300</item>
-    </style>
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
     <style name="Theme.Design" parent="Theme.AppCompat">
         <item name="textColorError">@color/design_textinput_error_color_dark</item>
