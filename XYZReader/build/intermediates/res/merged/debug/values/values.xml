@@ -254,7 +254,7 @@
     <dimen name="design_tab_text_size_2line">12sp</dimen>
     <dimen name="detail_body_bottom_margin">88dp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
-    <dimen name="detail_body_top_margin">16dp</dimen>
+    <dimen name="detail_body_top_margin">32dp</dimen>
     <dimen name="detail_card_max_width">10000dp</dimen>
     <dimen name="detail_inner_horiz_margin">16dp</dimen>
     <dimen name="detail_margin">16dp</dimen>
@@ -263,9 +263,8 @@
     <dimen name="detail_title_text_size">32sp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="elevation_high">12dp</dimen>
+    <dimen name="elevation_low">9dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
@@ -277,6 +276,11 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="status_bar_height">25dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item format="float" name="detail_body_line_spacing_multiplier" type="fraction">1.25</item>
     <item name="action_bar_activity_content" type="id"/>
@@ -1378,6 +1382,16 @@
     <style name="CollapsingToolbarLayoutExpandedTextStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:textColor">@android:color/transparent</item>
         <item name="android:textSize">0.1sp</item>
+    </style>
+    <style name="FabStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/spacing_large</item>
+        <item name="android:src">@drawable/ic_share</item>
+        <item name="borderWidth">0dp</item>
+        <item name="elevation">6dp</item>
+        <item name="pressedTranslationZ">12dp</item>
+        <item name="rippleColor">@android:color/white</item>
     </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
