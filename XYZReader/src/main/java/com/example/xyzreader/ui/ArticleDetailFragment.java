@@ -10,7 +10,9 @@ import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v4.app.ShareCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.graphics.Palette;
+import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.text.format.DateUtils;
 import android.text.method.LinkMovementMethod;
@@ -59,7 +61,6 @@ public class ArticleDetailFragment extends Fragment implements LoaderManager.Loa
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         if (getArguments().containsKey(ARG_ITEM_ID)) {
             mItemId = getArguments().getLong(ARG_ITEM_ID);
         }
@@ -90,6 +91,11 @@ public class ArticleDetailFragment extends Fragment implements LoaderManager.Loa
                         .getIntent(), getString(R.string.action_share)));
             }
         });
+
+        Toolbar appbar = (Toolbar) mRootView.findViewById(R.id.app_bar);
+        ((AppCompatActivity)getActivity()).setSupportActionBar(appbar);
+        ((AppCompatActivity)getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 
         bindViews();
         return mRootView;
