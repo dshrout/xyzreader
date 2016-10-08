@@ -81,6 +81,23 @@ public class ArticleDetailFragment extends Fragment implements LoaderManager.Loa
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
+
+        Toolbar appbar = (Toolbar) mRootView.findViewById(R.id.app_bar);
+        ((AppCompatActivity)getActivity()).setSupportActionBar(appbar);
+        ((AppCompatActivity)getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        ((AppCompatActivity)getActivity()).getSupportActionBar().setHomeButtonEnabled(true);
+
+        appbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try {
+                    ArticleDetailFragment.this.getActivity().finish();
+                } catch (Throwable throwable) {
+                    throwable.printStackTrace();
+                }
+            }
+        });
+
         mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
         mRootView.findViewById(R.id.share_fab).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -91,11 +108,6 @@ public class ArticleDetailFragment extends Fragment implements LoaderManager.Loa
                         .getIntent(), getString(R.string.action_share)));
             }
         });
-
-        Toolbar appbar = (Toolbar) mRootView.findViewById(R.id.app_bar);
-        ((AppCompatActivity)getActivity()).setSupportActionBar(appbar);
-        ((AppCompatActivity)getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
         bindViews();
         return mRootView;
     }
@@ -142,11 +154,6 @@ public class ArticleDetailFragment extends Fragment implements LoaderManager.Loa
 
                         }
                     });
-        } else {
-            mRootView.setVisibility(View.GONE);
-            titleView.setText("N/A");
-            bylineView.setText("N/A" );
-            bodyView.setText("N/A");
         }
     }
 
