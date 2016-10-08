@@ -4,30 +4,43 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="686409400049623"
-    token="-6270902887867776774" >
+    timestamp="1014250337389620"
+    token="-912859678862254104"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="3747" />
+        duration="1741" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="897" />
     <task
         name="instant-run-transform"
-        duration="1845" />
+        duration="72" />
     <task
         name="verifier"
-        duration="160" />
+        duration="8" />
 
     <artifact
-        location="D:\Projects\Android\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="686409400049623" >
+    <build timestamp="1012779474230012" >
         <artifact
-            location="D:\Projects\Android\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="1013628830121989" >
+        <artifact
+            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="1014250337389620"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Data\Projects\Android\MakeItMaterial\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

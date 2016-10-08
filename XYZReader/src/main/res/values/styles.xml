@@ -27,7 +27,9 @@
         <item name="colorAccent">@color/lightblue_a200</item>
 
         <item name="android:textColorPrimary">@color/grey_800</item>
-        <item name="android:textColorSecondary">@color/grey_300</item>
+        <item name="android:textColorSecondary">@color/grey_500</item>
+
+        <item name="colorControlNormal">@color/white</item>
     </style>
 
     <style name="FabStyle">

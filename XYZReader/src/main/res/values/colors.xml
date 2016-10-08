@@ -16,9 +16,12 @@
 -->
 
 <resources>
-    <color name="photo_placeholder">#ccc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_t50">#7F000000</color>
 
     <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
     <color name="grey_800">#424242</color>
     <color name="orange_300">#F5933C</color>
     <color name="orange_500">#F3571E</color>

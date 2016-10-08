@@ -129,15 +129,8 @@ public class ArticleListActivity extends AppCompatActivity implements
                 @TargetApi(Build.VERSION_CODES.LOLLIPOP)
                 @Override
                 public void onClick(View view) {
-                    String transitionName = getResources().getString(R.string.transition_photo);
-                    ImageView transitionImage = (ImageView) findViewById(R.id.thumbnail);
-                    transitionImage.setTransitionName(transitionName);
-                    Bundle bundle = ActivityOptionsCompat.makeSceneTransitionAnimation(
-                            ArticleListActivity.this,
-                            transitionImage,
-                            transitionName).toBundle();
                     startActivity(new Intent(Intent.ACTION_VIEW,
-                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))), bundle);
+                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
             });
             return vh;
